@@ -1,6 +1,7 @@
 # node-todo-cicd
 "hii my name is Ayush"
 Run these commands:
+docker compose run
 
 
 `sudo apt install nodejs`
